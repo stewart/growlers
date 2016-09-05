@@ -1,23 +1,24 @@
-# phillips-growlers
+# growlers
 
-`phillips-growlers` is a small CLI tool to print the current growler offerings
-available from Phillips Brewery.
+`growlers` is a small CLI tool to print the current growler offerings available
+in Victoria, BC.
 
 ### Installation
 
-    $ go get -u github.com/stewart/phillips-growlers
+    $ go get -u github.com/stewart/growlers
 
 ### Usage
 
-    $ phillips-growlers
-    - Analogue 78 Kolsch
-    - Blue Buck Ale
-    - Hop Circle IPA
-    - Longboat Chocolate Porter
-    - Mantra Saison
-    - Pilsner Pilsner
-    - Raspberry Wheat Ale
-    - Short Wave Pale Ale
+    $ growlers
+    Phillips:
+      * Analogue 78 Kolsch
+      * Blue Buck Ale
+      * Hop Circle IPA
+      * Longboat Chocolate Porter
+      * Mantra Saison
+      * Pilsner Pilsner
+      * Raspberry Wheat Ale
+      * Short Wave Pale Ale
 
 ### License
 
